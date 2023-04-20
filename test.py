@@ -19,3 +19,12 @@ ID = input("Enter the employee ID: ")
 print(employee_details(ID))
 
 """
+"""
+Guess the number game
+--- generate random number
+--- Loop: check if number is too low or too high
+--- check the number of tries
+--- check the difficulty
+--- check if game is over
+
+"""
