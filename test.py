@@ -1,6 +1,5 @@
 """_summary_
-
-
+this was basically meant to be a Pyscript test file
 
 # Switcher for implementing switch case options
 def employee_details(ID):
