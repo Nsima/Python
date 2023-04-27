@@ -1,6 +1,6 @@
 """_summary_
 this was basically meant to be a Pyscript test file
-
+I tried the Pyscript locally. Compared to JS, it's a real turn off.
 # Switcher for implementing switch case options
 def employee_details(ID):
     switcher = {
