@@ -1,6 +1,7 @@
 """_summary_
 this was basically meant to be a Pyscript test file
-I tried the Pyscript locally. Compared to JS, it's a real turn off.
+I tried the Pyscript locally. Compared to JS, it's slow and shitty
+
 # Switcher for implementing switch case options
 def employee_details(ID):
     switcher = {
@@ -26,4 +27,7 @@ Guess the number game
 --- check the difficulty
 --- check if game is over
 
+"""
+"""
+OOP in Python
 """
